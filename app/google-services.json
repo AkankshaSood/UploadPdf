@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36182844484",
+    "firebase_url": "https://sampleapp-5653c.firebaseio.com",
+    "project_id": "sampleapp-5653c",
+    "storage_bucket": "sampleapp-5653c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36182844484:android:881960e220fa2488",
+        "android_client_info": {
+          "package_name": "com.example.hp.uploadpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36182844484-5v67htf3ilusi1871mmdkv66ve7s6bcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.uploadpdf",
+            "certificate_hash": "13bc36510cc06f14f821b2c3d0b606e1933000a7"
+          }
+        },
+        {
+          "client_id": "36182844484-crj4vfcadmkccctioil7puocqtj3vt3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWufRUu6A91ZBe1lWN-0FKbDJr1n4cvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36182844484-crj4vfcadmkccctioil7puocqtj3vt3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
